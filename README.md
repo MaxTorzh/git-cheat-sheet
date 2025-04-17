@@ -338,7 +338,7 @@
 
 **> --head feature/my-awesome-feature — твоя ветка.**
 
-**> --title и --body — заголовок и описание PR.*
+**> --title и --body — заголовок и описание PR.**
 
 ---
 
